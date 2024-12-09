@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICTTP中心管理平台/试题管理.md",
-                "mode": "preview",
+                "file": "ICTTP中心管理平台/添加试题.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "试题管理"
+              "title": "添加试题"
             }
           }
         ]
@@ -162,14 +162,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36402e5124fb39ed",
+  "active": "66df0a27286c0254",
   "lastOpenFiles": [
+    "ICTTP中心管理平台/试题管理.md",
     "ICTTP中心管理平台/添加试题.md",
     "ICTTP中心管理平台/添加实体.md",
     "ICTTP中心管理平台/试题管理 copy.md",
     "添加试题.md",
     "试题管理.pdf",
-    "hi.svg",
-    "ICTTP中心管理平台/试题管理.md"
+    "hi.svg"
   ]
 }
